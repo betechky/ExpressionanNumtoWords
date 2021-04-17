@@ -1,0 +1,14 @@
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\NumbertoWords.exe
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\NumbertoWords.deps.json
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\NumbertoWords.runtimeconfig.json
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\NumbertoWords.runtimeconfig.dev.json
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\NumbertoWords.dll
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\NumbertoWords.pdb
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.AssemblyInfoInputs.cache
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.AssemblyInfo.cs
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.csproj.CoreCompileInputs.cache
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.dll
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.pdb
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.genruntimeconfig.cache
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\obj\Debug\netcoreapp3.1\NumbertoWords.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\NumbertoWords\NumbertoWords\bin\Debug\netcoreapp3.1\LargeNumbers.txt

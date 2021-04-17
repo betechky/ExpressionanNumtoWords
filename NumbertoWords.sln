@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbertoWords", "NumbertoWords\NumbertoWords.csproj", "{3408C933-36D1-4F44-9F59-D327C5FE40F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToWordsTest", "ToWordsTest\ToWordsTest.csproj", "{2113EB5D-8E5F-47C4-969A-E262E4D72555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3408C933-36D1-4F44-9F59-D327C5FE40F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3408C933-36D1-4F44-9F59-D327C5FE40F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3408C933-36D1-4F44-9F59-D327C5FE40F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3408C933-36D1-4F44-9F59-D327C5FE40F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2113EB5D-8E5F-47C4-969A-E262E4D72555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2113EB5D-8E5F-47C4-969A-E262E4D72555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2113EB5D-8E5F-47C4-969A-E262E4D72555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2113EB5D-8E5F-47C4-969A-E262E4D72555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F915F45-0B03-4A82-8826-B574E7DD50A1}
+	EndGlobalSection
+EndGlobal
