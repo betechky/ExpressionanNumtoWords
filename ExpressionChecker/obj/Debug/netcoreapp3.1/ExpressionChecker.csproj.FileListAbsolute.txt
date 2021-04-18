@@ -1,0 +1,13 @@
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\bin\Debug\netcoreapp3.1\ExpressionChecker.exe
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\bin\Debug\netcoreapp3.1\ExpressionChecker.deps.json
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\bin\Debug\netcoreapp3.1\ExpressionChecker.runtimeconfig.json
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\bin\Debug\netcoreapp3.1\ExpressionChecker.runtimeconfig.dev.json
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\bin\Debug\netcoreapp3.1\ExpressionChecker.dll
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\bin\Debug\netcoreapp3.1\ExpressionChecker.pdb
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.AssemblyInfoInputs.cache
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.AssemblyInfo.cs
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.csproj.CoreCompileInputs.cache
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.dll
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.pdb
+C:\Users\Creative\source\repos\NumbertoWords\ExpressionChecker\obj\Debug\netcoreapp3.1\ExpressionChecker.genruntimeconfig.cache

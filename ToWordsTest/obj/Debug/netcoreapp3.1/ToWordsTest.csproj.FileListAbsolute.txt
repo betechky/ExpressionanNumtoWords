@@ -1,0 +1,4 @@
+C:\Users\Creative\source\repos\NumbertoWords\ToWordsTest\obj\Debug\netcoreapp3.1\ToWordsTest.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\NumbertoWords\ToWordsTest\obj\Debug\netcoreapp3.1\ToWordsTest.AssemblyInfoInputs.cache
+C:\Users\Creative\source\repos\NumbertoWords\ToWordsTest\obj\Debug\netcoreapp3.1\ToWordsTest.AssemblyInfo.cs
+C:\Users\Creative\source\repos\NumbertoWords\ToWordsTest\obj\Debug\netcoreapp3.1\ToWordsTest.csproj.CoreCompileInputs.cache
